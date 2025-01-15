@@ -1,4 +1,4 @@
-**#Project Synopsis: Retail Customer Behavior Analysis**
+**Project Synopsis: Retail Customer Behavior Analysis**
 
 This project delves into the fascinating world of retail customer behavior through data analytics. By leveraging the power of Python and focusing on exploratory data analysis (EDA), we aim to extract meaningful insights from a retail transaction dataset. This will provide a deeper understanding of how customers behave and what drives their purchasing decisions.
 
